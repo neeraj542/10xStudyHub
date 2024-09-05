@@ -28,7 +28,7 @@ In this video, we guide you through building a comprehensive course-selling webs
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/neeraj542/10xStudyHub.git
    ```
 
 2. **Install Dependencies**
