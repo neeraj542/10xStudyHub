@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this video, we guide you through building a comprehensive course-selling website using a robust technology stack that includes React, Node.js, AWS RDS, SQL, and Stripe. This project covers everything from front-end development to back-end logic and payment integration.
+10xStudyHub is a blogging and course-learning website using a robust technology stack that includes React, Node.js, AWS RDS, SQL, and Stripe. This project covers everything from front-end development to back-end logic and payment integration.
 
 ## Highlights
 
