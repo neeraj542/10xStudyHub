@@ -6,23 +6,23 @@
 
 ## Highlights
 
-- 🌐 **Full-Stack Project**: Learn how to create a course-selling website with a seamless user experience using React for the front end and Node.js for the back end.
-- 🎨 **Front-End Technologies**: Build a responsive and visually appealing UI with React, Tailwind CSS, and Markdown.
-- 💻 **Back-End Setup**: Implement server-side logic using Node.js and Express.
-- 🗄️ **Database Integration**: Host and manage a MySQL database with AWS RDS.
-- 💳 **Payment Gateway**: Integrate Stripe to handle secure payment transactions.
-- 📚 **Dynamic Course Content**: Fetch and display video content dynamically for purchased courses.
-- 🔒 **User Authentication**: Set up user registration, login, and access control with private routes.
+- 🌐 **Full-Stack Project**: Build a course-selling website using React (front end) and Node.js (back end).
+- 🎨 **Front-End**: Create a responsive UI with React, Tailwind CSS, and Markdown.
+- 💻 **Back-End**: Handle server-side logic with Node.js and Express.
+- 🗄️ **Database**: Manage a MySQL database using AWS RDS.
+- 💳 **Payments**: Use Stripe for secure transactions.
+- 📚 **Courses**: Display video content dynamically for purchased courses.
+- 🔒 **Authentication**: Implement user registration, login, and private routes.
 
 ## Key Insights
 
-- 🛠️ **Technology Stack**: The project leverages modern technologies like React for a dynamic front end and Node.js for efficient back-end operations, improving overall performance and user engagement.
-- 🔄 **State Management**: React hooks such as `useState` and `useEffect` are utilized for effective state management and dynamic content updates.
-- 🔍 **User Experience**: Tailwind CSS ensures a responsive design, providing a visually appealing and user-friendly experience across different devices.
-- 📊 **Database Management**: AWS RDS offers a scalable and reliable environment for hosting the MySQL database, crucial for secure data and transaction management.
-- 🔗 **API Integration**: The integration of Stripe and Vimeo APIs showcases the role of third-party services in enhancing functionality, particularly for payments and media handling.
-- 📃 **Content Management**: Markdown simplifies the creation and management of blog content, making site updates and maintenance more manageable.
-- 🔐 **Security Measures**: Implementing robust user authentication and error handling for payments ensures that user data and transactions are secure.
+- 🛠️ **Tech Stack**: React and Node.js enhance performance and user engagement.
+- 🔄 **State Management**: React hooks like `useState` and `useEffect` manage state and updates.
+- 🔍 **User Experience**: Tailwind CSS provides a responsive and attractive design.
+- 📊 **Database**: AWS RDS ensures scalable, reliable MySQL hosting.
+- 🔗 **API Integration**: Stripe and Vimeo APIs enhance payments and media handling.
+- 📃 **Content Management**: Markdown simplifies blog content creation.
+- 🔐 **Security**: Strong authentication and error handling keep user data secure.
 
 ## Getting Started
 
