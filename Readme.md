@@ -1,4 +1,4 @@
-# Full-Stack Blogging and Course-Learning Website
+# 10xStudyPoint - A Full-Stack Educational Platform
 
 ## Summary
 
