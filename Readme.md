@@ -1,4 +1,4 @@
-# 10xStudyPoint - A Full-Stack Educational Platform
+# 10xStudyHub - A Full-Stack Educational Platform
 
 ## Summary
 
